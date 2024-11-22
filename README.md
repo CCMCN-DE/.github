@@ -1,4 +1,5 @@
-![CCMCN Data Engineering Banner](./assets/images/project-banner.png)
+# CCMCN-DE .github Profile Metaproject
 
-Welcome to CCMCN's hub for open-source software (OSS) software.
+This project contains front-facing README content and assets for the CCMCN-DE GitHub
+organization.
 
